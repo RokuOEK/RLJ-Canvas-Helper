@@ -5,7 +5,7 @@
  
  **HOW DOES IT WORK?**
  
- It works using TamperMonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo & installing the script RLJScript.user.js - which reads from an Imgur file of the entire canvas, but only has our relevant info on it!
+ It works using TamperMonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo & installing the script CanvasScrip.user.js - which reads from an Imgur file of the entire canvas, but only has our relevant info on it!
  
  **REQUIRMENTS**
  

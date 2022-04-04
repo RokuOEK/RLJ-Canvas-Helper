@@ -10,3 +10,9 @@
  **REQUIRMENTS**
  
  Just TamperMonkey and the script - refresh r/place once installed
+
+It should look like this 
+
+
+
+![image](https://raw.githubusercontent.com/RokuOEK/RLJ-Canvas-Helper/main/vivaldi_vUi7rUTPaL.png)

@@ -11,8 +11,8 @@
  
  Just TamperMonkey and the script - refresh r/place once installed
 
-It should look like this 
+It should look like this - the correct color shows as a small dot in the center of the pixel
 
 
 
-![image](https://raw.githubusercontent.com/RokuOEK/RLJ-Canvas-Helper/main/vivaldi_vUi7rUTPaL.png)
+![image](https://i.imgur.com/Hp1nxsh.png)
